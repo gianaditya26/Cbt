@@ -1,0 +1,6 @@
+{
+  "name": "EXAMBROWSER",
+  "description": "Aplikasi browser khusus ujian sekolah resmi dengan mode fullscreen, QR Code scanner, keamanan tingkat tinggi, dan Lock Task Kiosk Mode oleh Gian Aditya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
